@@ -1,0 +1,32 @@
+# Design Specifications
+
+| Part    | Key Dimensions        | Material    |
+|---------|-----------------------|-------------|
+| Body    | Φ194 × 30 mm, R50(3x) | Aluminum    |
+| Shaft   | Ø28.9 × 247.6 mm      | Stainless   |
+| Arm     | R63.75, 112.5 mm (2x) | Steel       |
+| Plate1  | 130.5 × 37.7 mm       | Steel       |
+| Plate2  | 100 × 6.5 mm          | Steel       |
+| Bolt    | Ø15.1 × 38 mm         | Steel       |
+
+# Bill of Materials
+
+| # | Part     | Qty | Unit Cost (USD) | Total Cost (USD) |
+|---|----------|-----|-----------------|------------------|
+| 1 | Body     | 1   | 152.60          | 152.60           |
+| 2 | Shaft    | 1   | 87.20           | 87.20            |
+| 3 | Arm      | 1   | 56.30           | 56.30            |
+| 4 | Plate 1  | 1   | 56.00           | 56.00            |
+| 5 | Plate 2  | 1   | 193.80          | 193.80           |
+| 6 | Bolt     | 3   | 20.30           | 60.90            |
+|   | **Total**|     |                 | **606.80**       |
+
+  # Assembly Instructions
+
+1. Place Body on fixture.
+2. Insert Shaft through Body bore; align keyway.
+3. Attach Arm to Shaft; torque bolts to 25 Nm.
+4. Mount Plate1 and Plate2 on either side of Arm.
+5. Secure with 3 Bolts; torque to 15 Nm each.
+6. Verify free rotation of Valve disc.
+
