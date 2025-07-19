@@ -30,6 +30,8 @@ Butterfly-Valve-Project
 │   └── stress_analysis <br>
 │       ├── input_files <br>
 │       └── results <br>
+├── Images <br>
+|        ├── Screenshots Design <br>
 ├── src <br>
 │   └── scripts <br>
 │       ├── export_stl.py <br>
