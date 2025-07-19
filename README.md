@@ -31,7 +31,7 @@ Butterfly-Valve-Project
 │       ├── input_files <br>
 │       └── results <br>
 ├── Images <br>
-|        ├── Screenshots Design <br>
+|        ├── Screenshots Design .png <br>
 ├── src <br>
 │   └── scripts <br>
 │       ├── export_stl.py <br>
